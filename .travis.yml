@@ -1,4 +1,4 @@
 language: cpp
 os: linux
 script:
-    - g++
+    - g++ main.cpp
